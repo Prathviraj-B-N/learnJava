@@ -1,4 +1,3 @@
-package com.learnJava;
 import java.sql.*;
 
 public class MySqlDatabaseHandler{
