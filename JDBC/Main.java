@@ -9,3 +9,8 @@ public class Main {
         }
     }
 }
+
+
+/*
+    student table:  create table student (name varchar(20),usn char(10));
+*/
